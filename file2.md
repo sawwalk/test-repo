@@ -12,14 +12,6 @@ the system repeats for the 2nd half so there are 4 blocks in total.
 
 
 
-Change room analysis:
-
-* How many people need to get quick-changed in the same block?
-* How many people are performing in both blocks and will therefore need to change in-between.
-* Try to estimate the total number of people using the change room as the sum of people quick changing within the same block + the number of people changing after performing in the previous block. 
-
-
-
 Since everyone can get changed before the show and during intermission we will focus on the 2nd and 4th block that directly follows another block. 
 
 
@@ -27,4 +19,18 @@ Since everyone can get changed before the show and during intermission we will f
 Data syntax:
 
 Each row represents 1 person, column x = name, column y = performances that they are performing in separated by commas e.g. "performance1 - teacher name, performance2 = teacher name, ... 
+
+
+
+Can you help me to brainstorm ideas on how to tackle this problem my initial thoughts are outlined bellow, please ask questions if you need more context. 
+
+
+
+Change room analysis:
+
+* How many people need to get quick-changed in the same block?
+* How many people are performing in both blocks and will therefore need to change in-between.
+* Try to estimate the total number of people using the change room as the sum of people quick changing within the same block + the number of people changing after performing in the previous block.
+
+
 
